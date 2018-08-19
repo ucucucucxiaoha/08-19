@@ -13,6 +13,7 @@ public class heihei {
         System.out.println("08-19 23:38  项目名xiaohao的push");
 
         System.out.println("08-19 23:44 测试push 和fetch 区别，大号线push，小号本行改成其他的");
+        System.out.println("08-19 0 28 dahao push");
     }
 
 }
