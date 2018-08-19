@@ -10,6 +10,8 @@ public class heihei {
         System.out.println("08-19 23:25 MyTest3修改成github_work:，不是小号");
         System.out.println("08-19 23:27 MyTest3的命令修改github_work:，是否便小号");
         System.out.println("08-19 23:34 MyTest3的命令 git push  github_work master修改github_work:，push失败，我是没用 git push 的push");
+        System.out.println("08-19 23:38  项目名xiaohao的push");
+
     }
 
 }
