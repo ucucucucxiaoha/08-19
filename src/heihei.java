@@ -6,6 +6,7 @@ public class heihei {
         System.out.println("08-19 22:40 xiaohao");
         System.out.println("08-19   测试怎么分辨大号，MyTest3提交 贡献22：55");
         System.out.println("08-19 23:09  MyTest3是大号");
+        System.out.println("08-19 23:20 MyTest3修改成github_work:，是否便小号");
     }
 
 }
