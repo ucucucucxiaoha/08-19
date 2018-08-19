@@ -12,6 +12,7 @@ public class heihei {
         System.out.println("08-19 23:34 MyTest3的命令 git push  github_work master修改github_work:，push失败，我是没用 git push 的push");
         System.out.println("08-19 23:38  项目名xiaohao的push");
 
+        System.out.println("08-19 23:44 测试push 和fetch 区别，大号线push，小号本行改成其他的");
     }
 
 }
