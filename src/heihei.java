@@ -17,6 +17,7 @@ public class heihei {
         System.out.println("08-19 0 28 dahao push");
         System.out.println("08-19 0 41 xiaohao push");
         System.out.println("08-20 09 07 dahao push");
+        System.out.println("08-20 09 18 dahao push commit之后再fetch reabase");
 
         System.out.println("08-20 9 13 xiaohao push");
     }
