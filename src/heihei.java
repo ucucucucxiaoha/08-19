@@ -24,6 +24,7 @@ public class heihei {
 
         System.out.println("0910 15 23 dahao push");
         System.out.println("0910 15 24 dahao push 第2次");
+        System.out.println("11+1===========1");
     }
 
 }
